@@ -26,6 +26,6 @@ git commit -m "adicionando o readme" - faz commit sem abrir o editor de texto
 
 git config --global core.editor vim - configura o editor de sua preferencia que voce quer utilizar
 
-
+git diff HEAD~1 - monstra ultimas alterações (commit)
 
  
