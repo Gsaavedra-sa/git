@@ -28,4 +28,6 @@ git config --global core.editor vim - configura o editor de sua preferencia que 
 
 git diff HEAD~1 - monstra ultimas alterações (commit)
 
- 
+git checkout "" - volta nas ultimas alterações que foram realizadas
+
+git checkout master - volta as alterações para o estado atual
